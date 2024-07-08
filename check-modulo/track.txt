@@ -1,0 +1,1 @@
+Given two vectors, verify that v[i]%16 != W[i]%16 for all elements.
